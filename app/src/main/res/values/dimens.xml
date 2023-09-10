@@ -1,0 +1,5 @@
+<!-- res/values/dimens.xml -->
+<resources>
+    <!-- Define a dimension for text size based on screen width -->
+    <dimen name="text_size_relative_to_screen_width">0.1</dimen> <!-- Adjust the value as needed -->
+</resources>
